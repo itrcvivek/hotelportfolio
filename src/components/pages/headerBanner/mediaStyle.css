@@ -1,0 +1,21 @@
+@media only screen and (max-width: 660px) {
+    .mediaImgCss {
+        display: none;
+       
+    }
+
+    .one {
+        width: 80vw;
+        padding: 30px !important;
+        
+    }
+
+    .mediap {
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+
+   .mediaTitle {
+      font-size: 30px !important;
+    }
+}
